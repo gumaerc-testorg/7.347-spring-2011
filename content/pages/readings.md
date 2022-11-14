@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Welcome and Introductions
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Welcome)
+{{% resource_link a95017ef-2498-d79a-0717-d9f25a361a70 "See the Lecture Summary" "#Welcome" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ No readings
 
 Cellulose Breakdown Basics
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Cellulose)
+{{% resource_link a95017ef-2498-d79a-0717-d9f25a361a70 "See the Lecture Summary" "#Cellulose" %}}
 
 
 {{< tdclose >}}
@@ -78,7 +80,7 @@ Himmel, M. E., S-Y Ding, D. K. Johnson, W. S. Adney, M. R. Nimlos, J. W. Brady, 
 
 Cellulolytic Bacteria and Fungi
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Cellulolytic)
+{{% resource_link a95017ef-2498-d79a-0717-d9f25a361a70 "See the Lecture Summary" "#Cellulolytic" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +108,7 @@ Tajima, K., R. I. Aminov, T. Nagamine, H. Matsui, M. Nakamura, and Y. Benno. "[D
 
 Transcriptional Regulation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Transcriptional)
+{{% resource_link a95017ef-2498-d79a-0717-d9f25a361a70 "See the Lecture Summary" "#Transcriptional" %}}
 
 
 {{< tdclose >}}
@@ -115,7 +117,7 @@ Transcriptional Regulation
 
 ### Paper 1
 
-Foreman, P. K., D. Brown, L. Dankmeyer, R. Dean, S. Diener, N. S. Dunn-Coleman, F. Goedegbuur, T. D. Houfeks, G. J. England, A. S. Kelley, H. J. Meerman, T. Mitchell, C. Mitchinson, H. A. Olivares, P. J. M. Teunissen, J. Yao, and M. Ward. "Transcriptional Regulation of Biomass-Degrading Enzymes in the Filamentous Fungus _Trichoderma reesei_." _Journal of Biological Chemistry_ 278 (2003): 31988-97. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.jbc.org/content/278/34/31988.full.pdf))
+Foreman, P. K., D. Brown, L. Dankmeyer, R. Dean, S. Diener, N. S. Dunn-Coleman, F. Goedegbuur, T. D. Houfeks, G. J. England, A. S. Kelley, H. J. Meerman, T. Mitchell, C. Mitchinson, H. A. Olivares, P. J. M. Teunissen, J. Yao, and M. Ward. "Transcriptional Regulation of Biomass-Degrading Enzymes in the Filamentous Fungus _Trichoderma reesei_." _Journal of Biological Chemistry_ 278 (2003): 31988-97. ([PDF](http://www.jbc.org/content/278/34/31988.full.pdf))
 
 ### Paper 2
 
@@ -134,7 +136,7 @@ Suzuki, H., K. Igarashi, and M. Samejima. "[Real-Time Quantitative Analysis of C
 
 Recombinant Cellulases
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Recombinant)
+{{% resource_link a95017ef-2498-d79a-0717-d9f25a361a70 "See the Lecture Summary" "#Recombinant" %}}
 
 
 {{< tdclose >}}
@@ -162,7 +164,7 @@ Nielsen, D. R., E. Leonard, S-H Yoon, H-C Tseng, C. Yuan, and K. L. Jones Prathe
 
 Synthetic Cellulosomes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Synthetic)
+{{% resource_link a95017ef-2498-d79a-0717-d9f25a361a70 "See the Lecture Summary" "#Synthetic" %}}
 
 
 {{< tdclose >}}
@@ -171,7 +173,7 @@ Synthetic Cellulosomes
 
 ### Paper 1
 
-Tsai, S. L., G. Goyal, and W. Chen. "Surface Display of a Functional Minicellulosome by Intracellular Complementation using a Synthetic Yeast Consortium and its Applications to Cellulose Hydrolysis and Ethanol Production." _Applied and Environmental Microbiology_ 76 (2010): 7514-20. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB](http://aem.asm.org/cgi/reprint/76/22/7514.pdf))
+Tsai, S. L., G. Goyal, and W. Chen. "Surface Display of a Functional Minicellulosome by Intracellular Complementation using a Synthetic Yeast Consortium and its Applications to Cellulose Hydrolysis and Ethanol Production." _Applied and Environmental Microbiology_ 76 (2010): 7514-20. ([PDF - 1.2MB](http://aem.asm.org/cgi/reprint/76/22/7514.pdf))
 
 ### Paper 2
 
@@ -190,7 +192,7 @@ Mitsuzawa, S., H. Kagawa, Y. Li, S. L. Chan, C. D. Paavola, and J. D. Trent. "[T
 
 Guest speaker: Industrial Biomass Processing and Hydrolysis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Guest)
+{{% resource_link a95017ef-2498-d79a-0717-d9f25a361a70 "See the Lecture Summary" "#Guest" %}}
 
 
 {{< tdclose >}}
@@ -208,7 +210,7 @@ No readings
 
 Metabolic Engineering
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Metabolic)
+{{% resource_link a95017ef-2498-d79a-0717-d9f25a361a70 "See the Lecture Summary" "#Metabolic" %}}
 
 
 {{< tdclose >}}
@@ -236,7 +238,7 @@ Atsumi, S., T. Hanai, and J. C. Liao. "[Non-Fermentative Pathways for Synthesis 
 
 Engineering Cellulolytic Organisms
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Engineering)
+{{% resource_link a95017ef-2498-d79a-0717-d9f25a361a70 "See the Lecture Summary" "#Engineering" %}}
 
 
 {{< tdclose >}}
@@ -249,7 +251,7 @@ Verdoes, J. C., P. J. Punt, and V. Camjj. "Molecular-Genetic Strain Improvement 
 
 ### Paper 2
 
-Shaw, A. J., K. K. Podkaminer, S. G. Desai, J. S. Bardsley, S. R. Rogers, P. G. Thorne, D. A. Hogsett, and L. R. Lynd. "Metabolic Engineering of a Thermophilic Bacterium to Produce Ethanol at High Yield." _Proceedings of the National Academies of the Sciences_ 105 (2008): 13769-74. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pnas.org/content/105/37/13769.full.pdf))
+Shaw, A. J., K. K. Podkaminer, S. G. Desai, J. S. Bardsley, S. R. Rogers, P. G. Thorne, D. A. Hogsett, and L. R. Lynd. "Metabolic Engineering of a Thermophilic Bacterium to Produce Ethanol at High Yield." _Proceedings of the National Academies of the Sciences_ 105 (2008): 13769-74. ([PDF](http://www.pnas.org/content/105/37/13769.full.pdf))
 
 
 {{< tdclose >}}
@@ -264,7 +266,7 @@ Shaw, A. J., K. K. Podkaminer, S. G. Desai, J. S. Bardsley, S. R. Rogers, P. G. 
 
 Directed Evolution and Protein Engineering
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Directed)
+{{% resource_link a95017ef-2498-d79a-0717-d9f25a361a70 "See the Lecture Summary" "#Directed" %}}
 
 
 {{< tdclose >}}
@@ -292,7 +294,7 @@ Peralta-Yahya, P., B. T. Carter, H. Lin, H. Tao, and V. Cornish. "[High-Throughp
 
 Identifying New Cellulases from Nature
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Identifying)
+{{% resource_link a95017ef-2498-d79a-0717-d9f25a361a70 "See the Lecture Summary" "#Identifying" %}}
 
 
 {{< tdclose >}}
@@ -320,7 +322,7 @@ Warnecke, F., P. Luginbuhl, N. Ivanova, M. Ghassemian, T. H. Richardson, J. T. S
 
 Oral Presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Oral)
+{{% resource_link a95017ef-2498-d79a-0717-d9f25a361a70 "See the Lecture Summary" "#Oral" %}}
 
 
 {{< tdclose >}}
